@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Games',
+    'Qual é o bloco mais raro do minecraft atual?',
+    'É o minério de esmeralda de rocha profunda'
 )
 
 criaCartao(
@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Gaames,
+    'Qual é a tipagem do typhlosion de hisui?',
+    'A tipagem dele é Fogo e Fantasma'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz talvez e dor de cabeça Inglês?',
+    'A tradução é headache(dor de cabeça) e perhaps (talvez)'
 )
