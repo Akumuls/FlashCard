@@ -26,3 +26,10 @@ criaCartao(
     'Games',
     'O que säo Pokemons?',
     'Säo os animais da saga Pokemon'
+    )
+
+criaCartao(
+    'Lingua Inglesa',
+    'Como se diz Dor de Cabeça em Inglês?',
+    'Talvez em Inglês é Headaches'
+)
