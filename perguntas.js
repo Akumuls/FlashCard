@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Livros,
+    'Livros',
     'Qual o nome do feitiço de levitação em Herry Potter?',
     'É o Wingardium Leviosa'
 )
