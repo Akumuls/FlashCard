@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Games',
+    'Qual é o minerio mais raro do minecraft?',
+    'É o minerio de emseralda de rocha profunda'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Livros,
+    'Qual o nome do feitiço de levitação em Herry Potter?',
+    'É o Wingardium Leviosa'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Games',
+    'Qual é a tipagem do thphlosion dw Hisui?',
+    'A tipagem dele é Fogo e Fantasma'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Lingua Inglesa',
+    'Como se diz Talvez em Inglês?',
+    'Talvez em Inglês é Perhaps'
 )
