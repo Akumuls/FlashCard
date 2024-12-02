@@ -21,3 +21,8 @@ criaCartao(
     'Como se diz Talvez em Inglês?',
     'Talvez em Inglês é Perhaps'
 )
+
+criaCartao(
+    'Games',
+    'O que säo Pokemons?',
+    'Säo os animais da saga Pokemon'
