@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Games',
-    'Qual é a tipagem do thphlosion dw Hisui?',
+    'Qual é a tipagem do thphlosion de Hisui?',
     'A tipagem dele é Fogo e Fantasma'
 )
 
